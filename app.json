@@ -44,7 +44,7 @@
       "required": false
     },
     "ARIA_TWO_STARTED_PORT": {
-      "description": "should be an integer. The port on which aria2c daemon must start, and keep listening.",
+      "description": "should be an integer.The port on which aria2c daemon must start, and keep listening.",
       "value": "6800",
       "required": false
     },
